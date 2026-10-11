@@ -1,0 +1,5 @@
+.private/
+.cache/
+.env
+.env.*
+*.log
